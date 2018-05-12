@@ -1,0 +1,55 @@
+_repo: Modern-SkepticismChristian-Evidence-Society_42957
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Harrowby, Dudley Ryder, Earl of
+    aliases:
+    - Ryder, Dudley, Earl of Harrowby
+    - Sandon, Dudley Ryder, Viscount
+    birthdate: 1798
+    deathdate: 1882
+    gutenberg_agent_id: '45500'
+    url: http://www.gutenberg.org/2009/agents/45500
+  contributor:
+    agent_name: Ellicott, C. J. (Charles John)
+    aliases:
+    - Ellicott, Charles John
+    - Lord Bishop of Gloucester and Bristol
+    birthdate: 1819
+    deathdate: 1905
+    gutenberg_agent_id: '31317'
+    url: http://www.gutenberg.org/2009/agents/31317
+  other_contributor:
+    agent_name: Christian Evidence Society
+    gutenberg_agent_id: '45591'
+    url: http://www.gutenberg.org/2009/agents/45591
+covers:
+- cover_type: archival
+  image_path: 42957-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Skepticism'
+- !lcc 'BL'
+- !lcsh 'Skepticism -- Controversial literature'
+- !lcsh 'Church of England'
+tableOfContents: Design in nature, by ... [William Thomson] -- Pantheism, by ... J.H.
+  Rigg -- Positivism, by ... William Jackson -- Science and revelation, by ... R.
+  Payne Smith -- The nature and value of the miraculous testimony to Christianity
+  by ... John Stoughton. The gradual development of revelation, by ... [Harvey Goodwin]
+  -- The alleged historical difficulties of the Old and New Testaments, and the light
+  thrown on them by modern discoveries, by ... George Rawlinson -- Mythical theories
+  of Christianity, by ... C.A. Row -- The evidential value of St. Paul's epistles,
+  by ... Stanley Leathes -- Christ's teaching and influence on the world, by ... [J.R.
+  Woodford] -- The completeness and adequacy of the evidences of Christianity by ...
+  F.C. Cook -- Explanatory paper by ... [C.J. Ellicott].
+title: "Modern Skepticism\r\nA Course of Lectures Delivered at the Request of the\
+  \ Christian Evidence Society"
+url: http://www.gutenberg.org/ebooks/42957
