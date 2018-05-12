@@ -27,6 +27,8 @@ covers:
 - cover_type: archival
   image_path: 42957-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42957#Modern-SkepticismChristian-Evidence-Society
 gutenberg_issued: '2013-06-16'
 gutenberg_type: Text
 identifiers:
